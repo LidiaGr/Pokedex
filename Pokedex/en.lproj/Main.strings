@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "#001"; ObjectID = "Sja-25-iqf"; */
+"Sja-25-iqf.text" = "#001";
+
+/* Class = "UINavigationItem"; title = "Pokédex"; ObjectID = "V9g-JY-90g"; */
+"V9g-JY-90g.title" = "Pokédex";
+
+/* Class = "UILabel"; text = "Bulbasaur"; ObjectID = "Zti-lO-HCX"; */
+"Zti-lO-HCX.text" = "Bulbasaur";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "c1y-1T-jlA"; */
+"c1y-1T-jlA.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Catch"; ObjectID = "pLR-FY-Qjw"; */
+"pLR-FY-Qjw.normalTitle" = "Catch";
+
+/* Class = "UILabel"; text = "Type 1"; ObjectID = "pSm-0Z-rVe"; */
+"pSm-0Z-rVe.text" = "Type 1";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "pTX-Th-16c"; */
+"pTX-Th-16c.text" = "Title";
+
+/* Class = "UILabel"; text = "Type 2"; ObjectID = "y6E-8v-JhD"; */
+"y6E-8v-JhD.text" = "Type 2";
