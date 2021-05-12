@@ -12,3 +12,5 @@ Realised:
 - Description
 
 The Project created for Harvard CS50 course in mobile development.
+
+![ScreenShot](screenRecord.gif)
