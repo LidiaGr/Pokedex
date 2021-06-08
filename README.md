@@ -1,5 +1,5 @@
 # Pokedex
-My first Swift project: Single View App using UIKit
+Single View Application using UIKit
 
 This app is a kind of Pokemon wiki. 
 First screen is a TableView with 151 Pokemon name, downloaded via PokeApi.
